@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Saiyan2003/simulador-qatar-v1.github.io/static/css/main.ac063f04.css",
-    "main.js": "/Saiyan2003/simulador-qatar-v1.github.io/static/js/main.1df72e14.js",
-    "static/js/787.4586a843.chunk.js": "/Saiyan2003/simulador-qatar-v1.github.io/static/js/787.4586a843.chunk.js",
-    "index.html": "/Saiyan2003/simulador-qatar-v1.github.io/index.html",
-    "main.ac063f04.css.map": "/Saiyan2003/simulador-qatar-v1.github.io/static/css/main.ac063f04.css.map",
-    "main.1df72e14.js.map": "/Saiyan2003/simulador-qatar-v1.github.io/static/js/main.1df72e14.js.map",
-    "787.4586a843.chunk.js.map": "/Saiyan2003/simulador-qatar-v1.github.io/static/js/787.4586a843.chunk.js.map"
+    "main.css": "/simulador-qatar-v1/static/css/main.ac063f04.css",
+    "main.js": "/simulador-qatar-v1/static/js/main.f92b1ebb.js",
+    "static/js/787.4586a843.chunk.js": "/simulador-qatar-v1/static/js/787.4586a843.chunk.js",
+    "index.html": "/simulador-qatar-v1/index.html",
+    "main.ac063f04.css.map": "/simulador-qatar-v1/static/css/main.ac063f04.css.map",
+    "main.f92b1ebb.js.map": "/simulador-qatar-v1/static/js/main.f92b1ebb.js.map",
+    "787.4586a843.chunk.js.map": "/simulador-qatar-v1/static/js/787.4586a843.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac063f04.css",
-    "static/js/main.1df72e14.js"
+    "static/js/main.f92b1ebb.js"
   ]
 }
