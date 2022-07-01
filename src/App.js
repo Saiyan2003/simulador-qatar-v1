@@ -94,17 +94,6 @@ function App() {
         <br></br><br></br>
         <br></br><br></br>
       </div>
-      <section className='modal'>
-        <div className='modal_container'>
-          <img src='http://2.bp.blogspot.com/-Tg4K7dWZzSA/VVOXODwVHSI/AAAAAAAAbFI/bn8SRGw28DI/s1600/faceless_void_full.png'></img>
-          <h2 className='modal_title'>
-            Campeon : 
-          </h2>
-          <a href='/' className='modal_close'>
-
-          </a>
-        </div>
-      </section>
     </BrowserRouter>
   );
 }
